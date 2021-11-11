@@ -7,6 +7,6 @@ Thông tin của các thành viên trong nhóm:
 3. [MSSV] - [Họ tên] - [Nick Github]
 4. [MSSV] - [Họ tên] - [Nick Github]
 
-Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có](https://github.com/xiaozhouwang/kaggle-porto-seguro) (đứng thứ 2 trên private leaderboard) cho [bài toán Porto Seguro’s Safe Driver Prediction](link) trên Kaggle. Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này](https://colab.research.google.com/github/KienTrann/AppliedDS-SampleRepo/blob/master/Report.ipynb).
+Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có](https://github.com/xiaozhouwang/kaggle-porto-seguro) (đứng thứ 2 trên private leaderboard) cho [bài toán Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/overview) trên Kaggle. Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này](https://colab.research.google.com/github/Trung-Rei/kaggle-porto-seguro/blob/main/Report.ipynb).
 
 Kế hoạch phân chia công việc của nhóm: [Trello](https://trello.com/b/MK155t0d/khdlud)
