@@ -3,7 +3,7 @@ Thùng chứa này chứa các file của đồ án môn "Khoa học dữ liệu
 Thông tin của các thành viên trong nhóm:
 
 1. 18120625 - Nguyễn Trần Trung - [Trung-Rei](https://github.com/Trung-Rei)
-2. [MSSV] - [Họ tên] - [Nick Github]
+2. [MSSV] - Phạm Viết Xuân - [PhamVietXuan](https://github.com/PhamVietXuan)
 3. [MSSV] - [Họ tên] - [Nick Github]
 4. [MSSV] - [Họ tên] - [Nick Github]
 
