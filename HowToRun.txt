@@ -1,0 +1,17 @@
+Các file cần chuẩn bị:
+1. util.py: Đây là file chứa các hàm của tác giả.
+2. kaggle.json: Đây là file chứa một số thông tin để thực hiện bước load data từ kaggle về colab nhanh hơn.
+
+Để chạy được file Report.ipynb, cần thực hiện theo các bước:
+
+Bước 1: Mở notebook với Colab, connect runtime (notebook để mặc định là CPU bởi vì như vậy mới đủ 25GB RAM để train model).
+Bước 2: Chạy lần lượt các cell code từ đầu:
+	+ Đến phần "Import thư viện" cho Neural Networks, chạy cell "files.upload()" -> chọn "Choose Files" -> Chọn file util.py.
+	+ Đến phần "Tổng quan dữ liệu", chạy cell "files.upload()" -> chọn "Choose Files" -> Chọn file kaggle.json.
+Bước 3: tiếp tục chạy các cell code, có 2 phần cần chừa ra không chạy:
+    + Phần "Hyperparameter tuning" nằm trong "Train LightGBM" (Phần này để tune siêu tham số).
+    + Phần "Thí nghiệm Feature Importance" nằm trong phần "Nhân và chia đặc trưng (feature interacting using Equations)" của Neural Networks (phần này thí nghiệm các đặc trưng quan trọng).
+
+Kết quả cuối cùng là file final_result_final.csv.
+
+Kết quả riêng lẻ của 2 mô hình là 2 file: keras_pred.csv và lgbm_pred.csv.
